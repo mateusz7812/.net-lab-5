@@ -1,0 +1,16 @@
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\bin\Debug\net5.0\zad2proj.exe
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\bin\Debug\net5.0\zad2proj.deps.json
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\bin\Debug\net5.0\zad2proj.runtimeconfig.json
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\bin\Debug\net5.0\zad2proj.runtimeconfig.dev.json
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\bin\Debug\net5.0\zad2proj.dll
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\bin\Debug\net5.0\ref\zad2proj.dll
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\bin\Debug\net5.0\zad2proj.pdb
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\obj\Debug\net5.0\zad2proj.csproj.AssemblyReference.cache
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\obj\Debug\net5.0\zad2proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\obj\Debug\net5.0\zad2proj.AssemblyInfoInputs.cache
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\obj\Debug\net5.0\zad2proj.AssemblyInfo.cs
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\obj\Debug\net5.0\zad2proj.csproj.CoreCompileInputs.cache
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\obj\Debug\net5.0\zad2proj.dll
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\obj\Debug\net5.0\ref\zad2proj.dll
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\obj\Debug\net5.0\zad2proj.pdb
+C:\Users\HP Envy\Desktop\.net\lab5\zad2\zad2proj\obj\Debug\net5.0\zad2proj.genruntimeconfig.cache

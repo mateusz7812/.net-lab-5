@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Tabliczka mnożenia";
+}
+
+@section js {    
+    <script src="@Url.Content("~/js/multiplying.js")"></script>
+}
+
+<main id="multiplying-main">
+    <section id="form_section">
+        <h3>Formularz</h3>
+        <form>
+            <label for="number">Podaj liczbę: </label>
+            <input type="number" id="number"/>
+            <input type="button" value="Policz" onclick="prepareTable(document.getElementById('number').value)"/>
+        </form>
+    </section>
+</main>
