@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\zad1Project.csproj": {}
+    "c:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\zad1Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\zad1Project.csproj": {
+    "c:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\zad1Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\zad1Project.csproj",
+        "projectUniqueName": "c:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\zad1Project.csproj",
         "projectName": "zad1Project",
-        "projectPath": "C:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\zad1Project.csproj",
+        "projectPath": "c:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\zad1Project.csproj",
         "packagesPath": "C:\\Users\\HP Envy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\obj\\",
+        "outputPath": "c:\\Users\\HP Envy\\Desktop\\.net\\lab5\\zad1\\zad1Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP Envy\\AppData\\Roaming\\NuGet\\NuGet.Config",
